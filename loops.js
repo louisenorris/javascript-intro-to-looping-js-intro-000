@@ -24,6 +24,6 @@ function doWhileLoop(num) {
   do {
     console.log("I run once regardless.");
     i--;
-  } while (i > 10);
+  } while (i < 10);
 
 }
